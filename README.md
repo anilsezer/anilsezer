@@ -2,7 +2,7 @@
 
 <h3 align="center">Front-End Developer </h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **Vue**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
 
