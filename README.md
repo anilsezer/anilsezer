@@ -2,9 +2,9 @@
 
 <h3 align="center">Front-End Developer </h3>
 
-- 🌱 I’m currently learning **React**, **Vue**,  **Swift**
+- 🌱 I’m currently learning  **Swift**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Swift **
 
 - 📫 How to reach me **anilsezerdev@gmail.com**
 
